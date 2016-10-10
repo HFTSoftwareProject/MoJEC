@@ -15,7 +15,7 @@ The system MoJEC enables a professor to set up Moodle exercise hand-ins for stud
 - View a Java Exercise Feedback
 
 # Important Links:
-[Git Repository](https://github.com/MarcelBochtler/MoJEC)
+[Git Repository](https://github.com/HFTSoftwareProject/MoJEC)
 
 [Trello ToDo Board](https://trello.com/b/ZmsnM9C2/mst-software-project)
 
