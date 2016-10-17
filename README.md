@@ -20,3 +20,5 @@ The system MoJEC enables a professor to set up Moodle exercise hand-ins for stud
 [Trello ToDo Board](https://trello.com/b/ZmsnM9C2/mst-software-project)
 
 [Slack Communication Tool](https://hftmstsoftwareproject.slack.com)
+
+[Time Tracking](https://docs.google.com/spreadsheets/d/1-MpYaloBiwruF3JKEFQNhkQHMwL48Fht-V6TLP1bQ5c/edit#gid=1436231210)
