@@ -15,7 +15,15 @@ The system MoJEC enables a professor to set up Moodle exercise hand-ins for stud
 - View a Java Exercise Feedback
 
 # Important Links:
-[Git Repository](https://github.com/HFTSoftwareProject/MoJEC)
+[Backend Git Repository](https://github.com/HFTSoftwareProject/MoJEC-Backend)
+
+[Frontent Git Repository](https://github.com/HFTSoftwareProject/moodle-assignsubmission_mojec)
+
+[Frontend Docker Configuration](https://github.com/HFTSoftwareProject/moodle-docker)
+
+[Backend Docker Repository](https://hub.docker.com/r/hftstuttgart/mojec-backend/)
+
+[Frontend Docker Repository](https://hub.docker.com/r/hftstuttgart/moodle/)
 
 [Trello ToDo Board](https://trello.com/b/ZmsnM9C2/mst-software-project)
 
