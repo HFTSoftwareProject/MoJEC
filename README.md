@@ -30,3 +30,10 @@ The system MoJEC enables a professor to set up Moodle exercise hand-ins for stud
 [Slack Communication Tool](https://hftmstsoftwareproject.slack.com)
 
 [Time Tracking](https://docs.google.com/spreadsheets/d/1-MpYaloBiwruF3JKEFQNhkQHMwL48Fht-V6TLP1bQ5c/edit#gid=1436231210)
+
+# Live System (HFT internal)
+[Moodle Demo System (Docker)](http://10.40.10.5)
+
+[Backend System (Docker)](http://10.40.10.5:8080)
+
+[Jenkins Continuous Integration System (KVM)](http://10.40.10.57:8080)
