@@ -8,11 +8,11 @@ This is the git repository for the MoJEC project, developed in the Winter Semest
 The system MoJEC enables a professor to set up Moodle exercise hand-ins for students in the HFT Stuttgarts official Moodle system, where MoJEC builds the code and runs a Junit test suite over the code. MoJEC shows the weighted JUnit test results to the respective student similar to other test results in Moodle.
 
 # Use Cases
-- Create a Java Exercise
-- Submit a Java Exercise Hand-in
-- Grade a Java Exercise Hand-in
-- Provide Java Exercise Feedback
-- View a Java Exercise Feedback
+- A teacher should be able to upload JUnit test files when creating an assignment
+- A student should be able to upload Java files to this assignment. Those files should be tested with the provided JUnit tests.
+- The student should see a summary of the test results.
+- The teacher should see a summary of all test results of all students, but also be able to view the detailed results.
+
 
 # Important Links:
 [Backend Git Repository](https://github.com/HFTSoftwareProject/MoJEC-Backend)
