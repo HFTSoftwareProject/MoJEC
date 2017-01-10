@@ -21,6 +21,8 @@ The system MoJEC enables a professor to set up Moodle exercise hand-ins for stud
 
 [Frontend Docker Configuration](https://github.com/HFTSoftwareProject/moodle-docker)
 
+[CI Scripts Git Repository](https://github.com/HFTSoftwareProject/MoJEC-CI-Scripts)
+
 [Backend Docker Repository](https://hub.docker.com/r/hftstuttgart/mojec-backend/)
 
 [Frontend Docker Repository](https://hub.docker.com/r/hftstuttgart/moodle/)
